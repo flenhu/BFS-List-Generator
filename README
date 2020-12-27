@@ -1,0 +1,10 @@
+This program produces an adjacency list representation by finding the BFS of the given input data
+
+
+List.c = The List ADT 
+List.h = the header file for the List ADT
+Graph.c = implements the graph adt 
+Graph.h = header file fopr the graph adt
+FindPath.c = Top level client that inputs graphs 
+Makefile = Makefile for the pa
+README = This file
